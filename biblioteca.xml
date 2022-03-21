@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<?xml-stylesheet href="biblioteca.css"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///E:\XAMPP\htdocs\CENEC 2021\Lenguajes de Marcas\3Gatos/biblioteca.xsd">
+  <libro>
+    <titulo>El Miki del Bronks</titulo>
+    <autor>Miki</autor>
+    <foto>miki.webp</foto>
+    <raza>GatoTigre</raza>
+  </libro>
+  <libro>
+    <titulo>Senda, levantante y anda</titulo>
+    <autor>Senda</autor>
+    <foto>senda.webp</foto>
+    <raza>GatoManta</raza>
+  </libro>
+  <libro>
+    <titulo>¿Summer or Winter?</titulo>
+    <autor>Summer</autor>
+    <foto>summer.webp</foto>
+    <raza>GatoSol</raza>
+  </libro>
+</biblioteca>
